@@ -38,5 +38,13 @@
     "publisher": "Harper & Brothers",
     "publishedDate": "1851-10-18",
     "isbn": "978-1503280786"
+  },
+  {
+    "id": 6,
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "publisher": "Scribner",
+    "publishedDate": "1925-04-10",
+    "isbn": "978-0743273565"
   }
 ]
